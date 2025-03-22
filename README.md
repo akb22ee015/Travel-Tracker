@@ -11,7 +11,7 @@ Travel Tracker is a dynamic web application that helps users organize and track 
 
 ## Tech Stack 🛠️
 - **Backend**: Node.js, Express.js
-- **Frontend**: EJS, HTML, CSS
+- **Frontend**: EJS, HTML, CSS, JS
 - **Database**: PostgreSQL
 - **Other Tools**: JavaScript, RESTful APIs
 
